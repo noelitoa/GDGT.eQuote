@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote", "GDGT.eQuote\GDGT.eQuote.csproj", "{AF9F28AE-8E00-4DBD-A35E-F65F3B137977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote.Model", "GDGT.eQuote.Model\GDGT.eQuote.Model.csproj", "{0EB472AC-1913-461E-BE8A-E166680FCAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote.Repository", "GDGT.eQuote.Repository\GDGT.eQuote.Repository.csproj", "{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9F28AE-8E00-4DBD-A35E-F65F3B137977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9F28AE-8E00-4DBD-A35E-F65F3B137977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9F28AE-8E00-4DBD-A35E-F65F3B137977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9F28AE-8E00-4DBD-A35E-F65F3B137977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB472AC-1913-461E-BE8A-E166680FCAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB472AC-1913-461E-BE8A-E166680FCAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB472AC-1913-461E-BE8A-E166680FCAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB472AC-1913-461E-BE8A-E166680FCAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
