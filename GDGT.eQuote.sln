@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote.Model", "GDGT.e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote.Repository", "GDGT.eQuote.Repository\GDGT.eQuote.Repository.csproj", "{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDGT.eQuote.Test", "GDGT.eQuote.Test\GDGT.eQuote.Test.csproj", "{2D5DB7FB-7829-4687-B3C2-36952750B8DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB26BEE9-D64C-4BA3-BE91-E1D68E8280FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5DB7FB-7829-4687-B3C2-36952750B8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5DB7FB-7829-4687-B3C2-36952750B8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5DB7FB-7829-4687-B3C2-36952750B8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5DB7FB-7829-4687-B3C2-36952750B8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
